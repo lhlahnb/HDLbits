@@ -10,8 +10,8 @@ module top_module (
 
   assign w = a;
   assign x = b;
-  assign y = c;
-  assign z = d;
+  assign y = b;
+  assign z = c;
 
 
 endmodule
